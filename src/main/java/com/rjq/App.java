@@ -9,6 +9,5 @@ public class App {
         System.out.println("rjq,git4");
         System.out.println("renjiaqing2");
         System.out.println("renjiaqing1");
-
     }
 }
