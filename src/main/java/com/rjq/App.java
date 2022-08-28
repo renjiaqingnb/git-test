@@ -10,5 +10,6 @@ public class App {
         System.out.println("renjiaqing2");
         System.out.println("renjiaqing1");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
